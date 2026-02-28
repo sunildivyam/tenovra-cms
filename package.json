@@ -1,7 +1,7 @@
 {
   "name": "tenovra-cms",
   "version": "1.0.0",
-  "description": "A blank template to get started with Payload 3.0",
+  "description": "Tenovra-cms is a high-performance, multitenant Content Management System built with a focus on scalability and developer flexibility. By leveraging the power of Payload CMS and Next.js, Tenovra-cms provides a seamless experience for managing content across multiple independent tenants, integrated with professional-grade media storage and secure payment processing.",
   "license": "MIT",
   "type": "module",
   "scripts": {
